@@ -37,6 +37,7 @@ When a file is removed from Wimi, it is also automatically removed from Dify to 
    WIMI_API_KEY=<your_wimi_api_key>
    DIFY_API_URL='http://my.vigie.ai/v1'
    DIFY_API_KEY=<your_dify_api_key>
+   UNSTRUCTURED = True
    ```
 
 ## Usage
